@@ -13,8 +13,6 @@ const Item = ({ job, candidate }) => {
        setError(null);
        setSuccess(false);
 
-       console.log("success" , success);
-       console.log("error" , error);
         try {
             const data = {
             uuid: candidate.uuid,
@@ -23,14 +21,11 @@ const Item = ({ job, candidate }) => {
             applicationId: candidate.applicationId,
             repoUrl: repoUrl,
             };
-            console.log("data" , data);
-
+            
             const result = await applyJobs(data);
-            console.log("resultado" , result);
 
             if (result.ok) { 
             setSuccess(true); 
-            console.log("resultado exitoso");
             }
         } catch (err) {
           setError(err.message); 

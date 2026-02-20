@@ -36,10 +36,7 @@ export const applyJobs = async (datos) => {
     }
   );
 
-  const data = await response.json();
-
-  console.log("STATUS:", response.status);
-  console.log("RESPONSE DATA:", data);
+  const data = await response.json(); 
 
   return data;
 };

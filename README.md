@@ -39,8 +39,10 @@ El objetivo de este challenge es demostrar:
 
 Clonar el repositorio:
 
+```bash
 git clone https://github.com/Agustina-Flores/Challenge-App.git
 cd Challenge-App
+```
 
 Instalar dependencias:
 
