@@ -59,6 +59,6 @@ http://localhost:5174
 
 👨‍💻 Autor
 
-Tu Nombre
+Agustina Flores
 GitHub: https://github.com/Agustina-Flores
 
