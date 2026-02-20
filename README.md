@@ -40,7 +40,7 @@ El objetivo de este challenge es demostrar:
 Clonar el repositorio:
 
 git clone https://github.com/Agustina-Flores/Challenge-App.git
-cd challenge
+cd Challenge-App
 
 Instalar dependencias:
 
@@ -54,5 +54,6 @@ Abrir en el navegador:
 
 http://localhost:5174
 
-👩‍💻 Autor: Agustina Flores
+👩‍💻 Autor: 
+Agustina Flores
 GitHub: https://github.com/Agustina-Flores
