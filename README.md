@@ -39,26 +39,20 @@ El objetivo de este challenge es demostrar:
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
-
-Entrar a la carpeta del proyecto:
-
-cd tu-repo
+git clone https://github.com/Agustina-Flores/Challenge-App.git
+cd challenge
 
 Instalar dependencias:
 
 npm install
 
-Ejecutar el servidor de desarrollo:
+Ejecutar el servidor:
 
 npm run dev
 
-Luego abrir en el navegador:
+Abrir en el navegador:
 
 http://localhost:5174
 
-👨‍💻 Autor
-
-Agustina Flores
+👩‍💻 Autor: Agustina Flores
 GitHub: https://github.com/Agustina-Flores
-
